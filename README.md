@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Data Science intern with a strong foundation in Python, statistics, mathematics, and data analysis, and hands-on experience applying machine learning, deep learning, and LLM-based
+I am an MSc Data Science student with a strong foundation in Python, statistics, mathematics, and data analysis, and hands-on experience applying machine learning, deep learning, and LLM-based techniques to solve real-world problems. I am particularly interested in building scalable, intelligent systems and translating complex data into meaningful insights.
 
 
 ## 🌐 Socials:
